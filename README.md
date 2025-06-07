@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @AngeArsene
-- 👀 I’m interested in back end web dvelopment
-- 🌱 I’m currently learning OOP, php, composer and git
-- 💞️ I’m looking to collaborate on with any one from which i can learn to launch my career as a php dev
-- 📫 How to reach me my email address : <nkenmandenga@gmail.com>
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m @AngeArsene  
+- 💻 I’m a Full Stack PHP Developer with hands-on experience in Laravel, MySQL, RESTful APIs, and React  
+- 🚀 I enjoy building scalable backend systems and feature-rich web applications  
+- 🔧 Skilled in: PHP, Laravel, JavaScript, React.js, MySQL, TailwindCSS, Git, Docker  
+- 🌱 Currently sharpening my skills in containerization, performance optimization, and advanced Laravel features  
+- 🤝 I’m open to collaborating on real-world Laravel or full-stack projects — especially those using Inertia.js or automation tools  
+- 📫 Reach me at **nkenmandenga@gmail.com**  
+- 🌍 Portfolio: [angearsene.github.io/portfolio](https://angearsene.github.io/portfolio)  
+- 😄 I speak English 🇬🇧 and French 🇫🇷  
+- ⚡ Fun fact: I built my own lightweight PHP MVC framework just for fun and learning!
 
 <!---
 AngeArsene/AngeArsene is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
