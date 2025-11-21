@@ -5,7 +5,7 @@
 - 🌱 Currently sharpening my skills in containerization, performance optimization, and advanced Laravel features  
 - 🤝 I’m open to collaborating on real-world Laravel or full-stack projects — especially those using Inertia.js or automation tools  
 - 📫 Reach me at **nkenmandenga@gmail.com**  
-- 🌍 Portfolio: [angearsene.github.io/portfolio](https://angearsene.github.io/portfolio)  
+- 🌍 Portfolio: [ange-arsene.is-a.dev](https://ange-arsene.is-a.dev)  
 - 😄 I speak English 🇬🇧 and French 🇫🇷  
 - ⚡ Fun fact: I built my own lightweight PHP MVC framework just for fun and learning!
 
